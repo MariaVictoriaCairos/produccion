@@ -68,5 +68,7 @@ Resultado base:
 
 
 Autor: María Victoria Cairós González
+
 Proyecto: ProducciónVentas
+
 Fecha: Octubre 2025
